@@ -23,4 +23,4 @@ const Card = ({ img, title, star, reviews, prevPrice, newPrice, productId }) => 
   );
 };
 
-export default Card; 
+export default Card;
